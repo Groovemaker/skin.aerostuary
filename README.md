@@ -1,8 +1,8 @@
-### skin.aerostuary
+# skin.aerostuary
 
-# A Kodi Skin based on WMC from Windows 7.
+## A Kodi Skin based on WMC from Windows 7.
 
-## Screens:
+### Screens:
 
 ![Alt text](https://i.imgur.com/eWBNMbi.png "Screen1")
 ![Alt text](https://i.imgur.com/iP8UzlO.png "Screen2")
